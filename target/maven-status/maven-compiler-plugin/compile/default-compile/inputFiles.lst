@@ -1,0 +1,7 @@
+/Users/lucasnascimento/Documents/workspace/aws-localstack/src/main/java/org/lucasnscr/awslocalstack/config/DynamoDBConfig.java
+/Users/lucasnascimento/Documents/workspace/aws-localstack/src/main/java/org/lucasnscr/awslocalstack/config/S3Config.java
+/Users/lucasnascimento/Documents/workspace/aws-localstack/src/main/java/org/lucasnscr/awslocalstack/service/CarService.java
+/Users/lucasnascimento/Documents/workspace/aws-localstack/src/main/java/org/lucasnscr/awslocalstack/controller/CarController.java
+/Users/lucasnascimento/Documents/workspace/aws-localstack/src/main/java/org/lucasnscr/awslocalstack/AwsLocalstackApplication.java
+/Users/lucasnascimento/Documents/workspace/aws-localstack/src/main/java/org/lucasnscr/awslocalstack/model/Car.java
+/Users/lucasnascimento/Documents/workspace/aws-localstack/src/main/java/org/lucasnscr/awslocalstack/repository/CarRepository.java

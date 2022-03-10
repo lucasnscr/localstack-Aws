@@ -1,0 +1,6 @@
+org/lucasnscr/awslocalstack/model/Car.class
+org/lucasnscr/awslocalstack/controller/CarController.class
+org/lucasnscr/awslocalstack/repository/CarRepository.class
+org/lucasnscr/awslocalstack/config/DynamoDBConfig.class
+org/lucasnscr/awslocalstack/service/CarService.class
+org/lucasnscr/awslocalstack/config/S3Config.class
