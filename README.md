@@ -29,5 +29,3 @@ LocalStack is an **open-source** mock of the real AWS services. s a cloud servic
 - Reduce Cost
 - Test AWS Cloud Resource Locally
 - Learn AWS Cloud Resource Locally
-
-
